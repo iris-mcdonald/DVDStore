@@ -1,0 +1,11 @@
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\DVDStore.db.dll.config
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\DVDStore.db.dll
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\DVDStore.db.pdb
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\EntityFramework.dll
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\EntityFramework.xml
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\obj\Debug\DVDStore.db.csprojResolveAssemblyReference.cache
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\obj\Debug\DVDStore.db.csproj.CoreCompileInputs.cache
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\obj\Debug\DVDStore.db.dll
+C:\Users\CC5 STUDENT\source\repos\DVDStore\DVDStore.db\obj\Debug\DVDStore.db.pdb
